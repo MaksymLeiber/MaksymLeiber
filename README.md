@@ -20,30 +20,20 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksymLeiber&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaksymLeiber&show_icons=true&hide_border=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymLeiber&layout=compact&hide_border=true&theme=tokyonight" width="400"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymLeiber&layout=compact&hide_border=true&theme=tokyonight"/>
-</p>
-
----
-
-
 
 ---
 
 ## 🌐 Социальные сети и проекты
 
 <p align="center">
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/leiberpro" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/MaksymLeiber" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
