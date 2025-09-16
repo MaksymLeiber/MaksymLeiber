@@ -40,10 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymLeiber&layout=compact&hide_border=false&theme=default" width="420" alt="langs"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaksymLeiber&theme=github-light&hide_border=false" width="860" alt="streak"/>
-</p>
-
 <hr/>
 
 ## 🧠 Цитата дня
@@ -63,7 +59,7 @@
   <a href="https://github.com/MaksymLeiber" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:max@example.com" target="_blank">
+  <a href="mailto:max@leiber.pro" target="_blank">
     <img src="https://img.shields.io/badge/Email-2E3A59?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
