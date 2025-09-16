@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7DF9FF&center=true&vCenter=true&width=750&lines=Привет%2C+я+Макс+👋;Пишу+код%2C+который+решает+задачи+🚀;Open+Source+%7C+Автоматизация+%7C+Сервисы;Всегда+за+чистую+архитектуру+и+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=7DF9FF&center=true&vCenter=true&width=750&lines=Привет%2C+я+Макс+👋;Пишу+код%2C+который+решает+задачи+🚀;Open+Source,+Автоматизация,+Сервисы;Всегда+за+чистую+архитектуру+и+UX" alt="Typing SVG" />
 
   <br/>
   <img src="https://komarev.com/ghpvc/?username=MaksymLeiber&style=flat-square&color=blueviolet" alt="views" />
