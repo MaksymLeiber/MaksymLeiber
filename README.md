@@ -1,7 +1,5 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&color=2E3A59&center=true&vCenter=true&width=820&lines=Привет%2C+я+Макс+👋;Делаю+понятные+и+полезные+сервисы;Люблю+чистую+архитектуру+и+автоматизацию" alt="Typing SVG" />
-
+  
   <br/>
   <img src="https://komarev.com/ghpvc/?username=MaksymLeiber&style=flat-square&color=2e3a59" alt="views" />
 
